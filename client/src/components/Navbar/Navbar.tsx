@@ -1,4 +1,4 @@
-import { AiFillGithub } from 'react-icons/ai';
+import { ImGithub } from 'react-icons/im';
 
 const Navbar = () => {
   return (
@@ -14,7 +14,7 @@ const Navbar = () => {
           target="__blank"
           className="btn btn-square btn-ghost"
         >
-          <AiFillGithub />
+          <ImGithub />
         </a>
       </div>
     </div>
