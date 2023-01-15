@@ -1,3 +1,9 @@
+/*
+component: NavBar
+author: Pawel Borkar <pawel@duck.com>
+Date: 15 January, 2023
+*/
+
 import { ImGithub } from 'react-icons/im';
 
 const Navbar = () => {
