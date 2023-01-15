@@ -1,9 +1,9 @@
-import { DatePicker } from 'antd';
-
+import { Navbar, Footer } from './components';
 export function App() {
   return (
     <>
-      <DatePicker />
+      <Navbar />
+      <Footer />
     </>
   );
 }
