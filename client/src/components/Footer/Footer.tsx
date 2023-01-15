@@ -1,3 +1,9 @@
+/*
+component: Footer
+author: Pawel Borkar <pawel@duck.com>
+Date: 16 January, 2023
+*/
+
 import { ImHeart, ImTwitter, ImLinkedin, ImGithub } from 'react-icons/im';
 import { MdApi } from 'react-icons/md';
 const Footer = () => {
