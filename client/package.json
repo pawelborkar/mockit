@@ -14,12 +14,14 @@
   },
   "type": "module",
   "scripts": {
+    "prettier": "prettier --write src/",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
     "@tanstack/react-query": "^4.22.0",
+    "antd": "^5.1.4",
     "axios": "^1.2.2",
     "preact": "^10.11.3"
   },
