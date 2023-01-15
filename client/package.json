@@ -1,0 +1,33 @@
+{
+  "name": "dynamic-api-client",
+  "private": true,
+  "version": "0.0.1",
+  "author": {
+    "name": "Pawel Borkar",
+    "email": "pawel@duck.com",
+    "url": "https://pawel.in"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "client",
+    "url": "https://github.com/pawelborkar/dynamic-api.git"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^4.22.0",
+    "axios": "^1.2.2",
+    "preact": "^10.11.3"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.4.0",
+    "@tanstack/react-query-devtools": "^4.22.0",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  }
+}
