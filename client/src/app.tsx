@@ -1,9 +1,9 @@
-import Navbar from './components/Navbar/Navbar';
-
+import { Navbar, Footer } from './components';
 export function App() {
   return (
-    <div>
+    <>
       <Navbar />
-    </div>
+      <Footer />
+    </>
   );
 }
