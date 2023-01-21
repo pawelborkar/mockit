@@ -1,6 +1,6 @@
 /*
 component: NavBar
-author: Pawel Borkar <pawel@duck.com>
+@Author: Pawel Borkar <pawel@duck.com>
 Date: 15 January, 2023
 */
 
@@ -8,10 +8,10 @@ import { ImGithub } from 'react-icons/im';
 
 const Navbar = () => {
   return (
-    <div className="navbar bg-red-100">
+    <div className="navbar text-slate-900 bg-red-100">
       <div className="flex-1">
         <a href="#" className="btn btn-ghost normal-case text-xl">
-          D.A.P.I.
+          Mockit
         </a>
       </div>
       <div className="flex-none">
