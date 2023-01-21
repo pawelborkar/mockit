@@ -1,6 +1,6 @@
 /*
 component: Footer
-author: Pawel Borkar <pawel@duck.com>
+@Author: Pawel Borkar <pawel@duck.com>
 Date: 16 January, 2023
 */
 
