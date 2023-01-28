@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       <div className="flex-none">
         <a
-          href="https://github.com/pawelborkar/dynamic-api"
+          href="https://github.com/pawelborkar/mockit"
           target="__blank"
           className="btn btn-square btn-ghost"
         >
